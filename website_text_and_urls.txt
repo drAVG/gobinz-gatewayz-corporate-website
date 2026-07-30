@@ -1,0 +1,19 @@
+COMPANY INFO:
+Gobinz Gatewayz
+Tel: 647-684-4949
+Email: anil@gobinzgatewayz.ca
+Hours: Open Monday - Friday, 09:00 a.m. – 05:00 p.m.
+Location: Toronto-based / Greater Toronto Area & Canada-wide
+
+CORE VALUE PROPOSITION:
+- Eliminate credit card processing fees legally using Canadian-compliant surcharging.
+- Recover the 1.5–3% lost on every credit card sale.
+- Debit and cash customers pay nothing extra.
+- Follows Visa and Mastercard's Canadian surcharging rules (30-day notice, clear disclosure, capped rates).
+
+PAGES / URL STRUCTURE (Relative Paths):
+- Home: /
+- Free Consultation / How Much Can I Save?: (Booking links)
+- FAQ
+- Privacy Policy
+- Terms and Conditions

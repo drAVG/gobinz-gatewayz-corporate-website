@@ -1,0 +1,8 @@
+3. Identify and Save Brand Colors & Fonts
+Because this site is built using GoDaddy Airo, it uses standard web-safe structures. You can identify the exact colors and fonts using your browser's inspect tool, or save this reference based on the current live render:
+
+Primary Accent Color (Buttons & Highlights): A deep purple/plum hex code (#4A0E4E or similar deep violet).
+
+Secondary Text/Background: Deep charcoal/black (#111111) for headings, white (#FFFFFF) for main sections, and soft gray (#F9F9F9) for alternating background sections.
+
+Typography: A clean, modern sans-serif font stack (typically Segoe UI, Arial, or Open Sans dynamically assigned by the GoDaddy template builder).
